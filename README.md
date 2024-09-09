@@ -1,4 +1,4 @@
-# Cloud-Firestore
+# Cloud Firestore
 Instalação do Firebase e comandos básicos de CRUD no Firestore
 
 Primeiro para configurar o Firebase no Flutter (após baixar o google-services.json que é disponibilizado na criação do projeto), basta colocar o arquivo dentro da pasta <projeto>/android/app. Após isso configurar o build.gradle da pasta APP e o da pasta android.
